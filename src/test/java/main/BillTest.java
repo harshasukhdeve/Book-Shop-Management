@@ -35,6 +35,7 @@ public class BillTest {
 		
 		//not negative check
 		//fail("Not yet implemented");
+        
 		 assertEquals(720,c.calcBill());
 	}/*
  * CHANGING OF TEST FILES MAY LEAD TO DISQUALIFICATION OF YOUR PROJECT !!!
